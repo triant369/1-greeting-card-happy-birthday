@@ -1,5 +1,5 @@
 {
-    "name": "1. Greeting Card Happy birthday",
+    "name": "2. Greeting Card Happy birthday Controller",
     "description": "",
     "dependencies": {
         "device": "*",
